@@ -1,0 +1,30 @@
+C:\Users\nborges\Desktop\Solution\src\Training.ConsoleApp\bin\Debug\netcoreapp3.1\Training.ConsoleApp.exe
+C:\Users\nborges\Desktop\Solution\src\Training.ConsoleApp\bin\Debug\netcoreapp3.1\Training.ConsoleApp.deps.json
+C:\Users\nborges\Desktop\Solution\src\Training.ConsoleApp\bin\Debug\netcoreapp3.1\Training.ConsoleApp.runtimeconfig.json
+C:\Users\nborges\Desktop\Solution\src\Training.ConsoleApp\bin\Debug\netcoreapp3.1\Training.ConsoleApp.runtimeconfig.dev.json
+C:\Users\nborges\Desktop\Solution\src\Training.ConsoleApp\bin\Debug\netcoreapp3.1\Training.ConsoleApp.dll
+C:\Users\nborges\Desktop\Solution\src\Training.ConsoleApp\bin\Debug\netcoreapp3.1\Training.ConsoleApp.pdb
+C:\Users\nborges\Desktop\Solution\src\Training.ConsoleApp\obj\Debug\netcoreapp3.1\Training.ConsoleApp.csprojAssemblyReference.cache
+C:\Users\nborges\Desktop\Solution\src\Training.ConsoleApp\obj\Debug\netcoreapp3.1\Training.ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\nborges\Desktop\Solution\src\Training.ConsoleApp\obj\Debug\netcoreapp3.1\Training.ConsoleApp.AssemblyInfo.cs
+C:\Users\nborges\Desktop\Solution\src\Training.ConsoleApp\obj\Debug\netcoreapp3.1\Training.ConsoleApp.dll
+C:\Users\nborges\Desktop\Solution\src\Training.ConsoleApp\obj\Debug\netcoreapp3.1\Training.ConsoleApp.pdb
+C:\Users\nborges\Desktop\Solution\src\Training.ConsoleApp\bin\Debug\netcoreapp3.1\Training.Business.dll
+C:\Users\nborges\Desktop\Solution\src\Training.ConsoleApp\bin\Debug\netcoreapp3.1\Training.Business.pdb
+C:\Users\nborges\Desktop\Solution\src\Training.ConsoleApp\obj\Debug\netcoreapp3.1\Training.ConsoleApp.csproj.CopyComplete
+C:\Users\nborges\Desktop\Solution\src\Training.ConsoleApp\bin\Debug\netcoreapp3.1\Lorem.NET.dll
+C:\Users\nborges\Desktop\Hands on\Solution\src\Training.ConsoleApp\bin\Debug\netcoreapp3.1\Training.ConsoleApp.exe
+C:\Users\nborges\Desktop\Hands on\Solution\src\Training.ConsoleApp\bin\Debug\netcoreapp3.1\Training.ConsoleApp.deps.json
+C:\Users\nborges\Desktop\Hands on\Solution\src\Training.ConsoleApp\bin\Debug\netcoreapp3.1\Training.ConsoleApp.runtimeconfig.json
+C:\Users\nborges\Desktop\Hands on\Solution\src\Training.ConsoleApp\bin\Debug\netcoreapp3.1\Training.ConsoleApp.runtimeconfig.dev.json
+C:\Users\nborges\Desktop\Hands on\Solution\src\Training.ConsoleApp\bin\Debug\netcoreapp3.1\Training.ConsoleApp.dll
+C:\Users\nborges\Desktop\Hands on\Solution\src\Training.ConsoleApp\bin\Debug\netcoreapp3.1\Training.ConsoleApp.pdb
+C:\Users\nborges\Desktop\Hands on\Solution\src\Training.ConsoleApp\bin\Debug\netcoreapp3.1\Lorem.NET.dll
+C:\Users\nborges\Desktop\Hands on\Solution\src\Training.ConsoleApp\bin\Debug\netcoreapp3.1\Training.Business.dll
+C:\Users\nborges\Desktop\Hands on\Solution\src\Training.ConsoleApp\bin\Debug\netcoreapp3.1\Training.Business.pdb
+C:\Users\nborges\Desktop\Hands on\Solution\src\Training.ConsoleApp\obj\Debug\netcoreapp3.1\Training.ConsoleApp.csprojAssemblyReference.cache
+C:\Users\nborges\Desktop\Hands on\Solution\src\Training.ConsoleApp\obj\Debug\netcoreapp3.1\Training.ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\nborges\Desktop\Hands on\Solution\src\Training.ConsoleApp\obj\Debug\netcoreapp3.1\Training.ConsoleApp.AssemblyInfo.cs
+C:\Users\nborges\Desktop\Hands on\Solution\src\Training.ConsoleApp\obj\Debug\netcoreapp3.1\Training.ConsoleApp.csproj.CopyComplete
+C:\Users\nborges\Desktop\Hands on\Solution\src\Training.ConsoleApp\obj\Debug\netcoreapp3.1\Training.ConsoleApp.dll
+C:\Users\nborges\Desktop\Hands on\Solution\src\Training.ConsoleApp\obj\Debug\netcoreapp3.1\Training.ConsoleApp.pdb

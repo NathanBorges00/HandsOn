@@ -1,0 +1,16 @@
+C:\Users\nborges\Desktop\Solution\src\Training.Business\bin\Debug\netstandard2.0\Training.Business.deps.json
+C:\Users\nborges\Desktop\Solution\src\Training.Business\bin\Debug\netstandard2.0\Training.Business.dll
+C:\Users\nborges\Desktop\Solution\src\Training.Business\bin\Debug\netstandard2.0\Training.Business.pdb
+C:\Users\nborges\Desktop\Solution\src\Training.Business\obj\Debug\netstandard2.0\Training.Business.csprojAssemblyReference.cache
+C:\Users\nborges\Desktop\Solution\src\Training.Business\obj\Debug\netstandard2.0\Training.Business.AssemblyInfoInputs.cache
+C:\Users\nborges\Desktop\Solution\src\Training.Business\obj\Debug\netstandard2.0\Training.Business.AssemblyInfo.cs
+C:\Users\nborges\Desktop\Solution\src\Training.Business\obj\Debug\netstandard2.0\Training.Business.dll
+C:\Users\nborges\Desktop\Solution\src\Training.Business\obj\Debug\netstandard2.0\Training.Business.pdb
+C:\Users\nborges\Desktop\Hands on\Solution\src\Training.Business\bin\Debug\netstandard2.0\Training.Business.deps.json
+C:\Users\nborges\Desktop\Hands on\Solution\src\Training.Business\bin\Debug\netstandard2.0\Training.Business.dll
+C:\Users\nborges\Desktop\Hands on\Solution\src\Training.Business\bin\Debug\netstandard2.0\Training.Business.pdb
+C:\Users\nborges\Desktop\Hands on\Solution\src\Training.Business\obj\Debug\netstandard2.0\Training.Business.csprojAssemblyReference.cache
+C:\Users\nborges\Desktop\Hands on\Solution\src\Training.Business\obj\Debug\netstandard2.0\Training.Business.AssemblyInfoInputs.cache
+C:\Users\nborges\Desktop\Hands on\Solution\src\Training.Business\obj\Debug\netstandard2.0\Training.Business.AssemblyInfo.cs
+C:\Users\nborges\Desktop\Hands on\Solution\src\Training.Business\obj\Debug\netstandard2.0\Training.Business.dll
+C:\Users\nborges\Desktop\Hands on\Solution\src\Training.Business\obj\Debug\netstandard2.0\Training.Business.pdb

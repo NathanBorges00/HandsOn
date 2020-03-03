@@ -1,0 +1,11 @@
+C:\Users\nborges\Desktop\Hands on\Exceções\excecoes\bin\Debug\netcoreapp3.1\excecoes.exe
+C:\Users\nborges\Desktop\Hands on\Exceções\excecoes\bin\Debug\netcoreapp3.1\excecoes.deps.json
+C:\Users\nborges\Desktop\Hands on\Exceções\excecoes\bin\Debug\netcoreapp3.1\excecoes.runtimeconfig.json
+C:\Users\nborges\Desktop\Hands on\Exceções\excecoes\bin\Debug\netcoreapp3.1\excecoes.runtimeconfig.dev.json
+C:\Users\nborges\Desktop\Hands on\Exceções\excecoes\bin\Debug\netcoreapp3.1\excecoes.dll
+C:\Users\nborges\Desktop\Hands on\Exceções\excecoes\bin\Debug\netcoreapp3.1\excecoes.pdb
+C:\Users\nborges\Desktop\Hands on\Exceções\excecoes\obj\Debug\netcoreapp3.1\excecoes.csprojAssemblyReference.cache
+C:\Users\nborges\Desktop\Hands on\Exceções\excecoes\obj\Debug\netcoreapp3.1\excecoes.AssemblyInfoInputs.cache
+C:\Users\nborges\Desktop\Hands on\Exceções\excecoes\obj\Debug\netcoreapp3.1\excecoes.AssemblyInfo.cs
+C:\Users\nborges\Desktop\Hands on\Exceções\excecoes\obj\Debug\netcoreapp3.1\excecoes.dll
+C:\Users\nborges\Desktop\Hands on\Exceções\excecoes\obj\Debug\netcoreapp3.1\excecoes.pdb

@@ -1,0 +1,115 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Lorem.Universal.NET/3.0.64": {
+        "type": "package",
+        "dependencies": {
+          "NETStandard.Library": "1.6.1"
+        },
+        "compile": {
+          "lib/netstandard1.0/Lorem.NET.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard1.0/Lorem.NET.dll": {}
+        }
+      },
+      "Training.Business/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "dependencies": {
+          "Lorem.Universal.Net": "3.0.64"
+        },
+        "compile": {
+          "bin/placeholder/Training.Business.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Training.Business.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Lorem.Universal.NET/3.0.64": {
+      "sha512": "kcP2Y4EETNNXJJ4unLcVFsZwlAJ9Ll6nY/o/PmOo1/N08n7enySLUnY8/WfCmfUC/m7J8AF/LIhjQi/JcmSLcQ==",
+      "type": "package",
+      "path": "lorem.universal.net/3.0.64",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/netstandard1.0/.xml",
+        "lib/netstandard1.0/Lorem.NET.dll",
+        "license.md",
+        "lorem.universal.net.3.0.64.nupkg.sha512",
+        "lorem.universal.net.nuspec"
+      ]
+    },
+    "Training.Business/1.0.0": {
+      "type": "project",
+      "path": "../Training.Business/Training.Business.csproj",
+      "msbuildProject": "../Training.Business/Training.Business.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "Training.Business >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\nborges\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\nborges\\Desktop\\Hands on\\Solution\\src\\Training.ConsoleApp\\Training.ConsoleApp.csproj",
+      "projectName": "Training.ConsoleApp",
+      "projectPath": "C:\\Users\\nborges\\Desktop\\Hands on\\Solution\\src\\Training.ConsoleApp\\Training.ConsoleApp.csproj",
+      "packagesPath": "C:\\Users\\nborges\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\nborges\\Desktop\\Hands on\\Solution\\src\\Training.ConsoleApp\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\nborges\\AppData\\Roaming\\NuGet\\NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "projectReferences": {
+            "C:\\Users\\nborges\\Desktop\\Hands on\\Solution\\src\\Training.Business\\Training.Business.csproj": {
+              "projectPath": "C:\\Users\\nborges\\Desktop\\Hands on\\Solution\\src\\Training.Business\\Training.Business.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.102\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "format": 1,
+  "restore": {
+    "c:\\Users\\nborges\\Desktop\\Solution\\test\\Training.Business.Tests\\Training.Business.Tests.csproj": {}
+  },
+  "projects": {
+    "c:\\Users\\nborges\\Desktop\\Solution\\test\\Training.Business.Tests\\Training.Business.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "c:\\Users\\nborges\\Desktop\\Solution\\test\\Training.Business.Tests\\Training.Business.Tests.csproj",
+        "projectName": "Training.Business.Tests",
+        "projectPath": "c:\\Users\\nborges\\Desktop\\Solution\\test\\Training.Business.Tests\\Training.Business.Tests.csproj",
+        "packagesPath": "C:\\Users\\nborges\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\nborges\\Desktop\\Solution\\test\\Training.Business.Tests\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\nborges\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.2.0, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[1.0.1, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.0, )"
+            },
+            "xunit.runner.visualstudio": {
+              "target": "Package",
+              "version": "[2.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

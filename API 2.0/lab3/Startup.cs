@@ -12,6 +12,7 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
+using lab3;
 
 namespace lab3
 {
@@ -44,20 +45,7 @@ namespace lab3
 
             app.UseAuthorization();
 
-            app.Use(async (context, next) =>
-            {
-                try
-                {
-                    await next();
-                }
-                catch (System.Exception)
-                {
-
-                    context.Response.ContentType = "text/plain";
-                    context.Response.StatusCode = (int)HttpStatusCode.InternalServerError;
-                    await context.Response.WriteAsync("Oops! Ocorreu um erro.");
-                }
-            });
+            app.CustomException();
 
             app.UseEndpoints(endpoints =>
             {

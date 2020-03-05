@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\nborges\\Desktop\\Hands on\\API 2.0\\lab3\\lab3.csproj": {}
+    "C:\\Users\\nborges\\Desktop\\HandsOn\\API 2.0\\lab3\\lab3.csproj": {}
   },
   "projects": {
-    "c:\\Users\\nborges\\Desktop\\Hands on\\API 2.0\\lab3\\lab3.csproj": {
+    "C:\\Users\\nborges\\Desktop\\HandsOn\\API 2.0\\lab3\\lab3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\nborges\\Desktop\\Hands on\\API 2.0\\lab3\\lab3.csproj",
+        "projectUniqueName": "C:\\Users\\nborges\\Desktop\\HandsOn\\API 2.0\\lab3\\lab3.csproj",
         "projectName": "lab3",
-        "projectPath": "c:\\Users\\nborges\\Desktop\\Hands on\\API 2.0\\lab3\\lab3.csproj",
+        "projectPath": "C:\\Users\\nborges\\Desktop\\HandsOn\\API 2.0\\lab3\\lab3.csproj",
         "packagesPath": "C:\\Users\\nborges\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\nborges\\Desktop\\Hands on\\API 2.0\\lab3\\obj\\",
+        "outputPath": "C:\\Users\\nborges\\Desktop\\HandsOn\\API 2.0\\lab3\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\nborges\\AppData\\Roaming\\NuGet\\NuGet.Config"

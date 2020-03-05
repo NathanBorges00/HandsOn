@@ -1,7 +1,6 @@
 using System;
 using System.Collections.Generic;
 using System.Threading.Tasks;
-using lab1;
 
 namespace lab1
 {
@@ -16,6 +15,7 @@ namespace lab1
         Produto Get(Guid id);
 
         IList<Produto> GetAll();
+
         Task SaveChangesAsync();
     }
 }

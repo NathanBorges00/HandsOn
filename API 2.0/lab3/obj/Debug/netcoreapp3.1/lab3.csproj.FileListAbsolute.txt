@@ -16,3 +16,21 @@ c:\Users\nborges\Desktop\Hands on\API 2.0\lab3\obj\Debug\netcoreapp3.1\staticweb
 c:\Users\nborges\Desktop\Hands on\API 2.0\lab3\obj\Debug\netcoreapp3.1\staticwebassets\lab3.StaticWebAssets.xml
 c:\Users\nborges\Desktop\Hands on\API 2.0\lab3\obj\Debug\netcoreapp3.1\lab3.dll
 c:\Users\nborges\Desktop\Hands on\API 2.0\lab3\obj\Debug\netcoreapp3.1\lab3.pdb
+c:\Users\nborges\Desktop\HandsOn\API 2.0\lab3\bin\Debug\netcoreapp3.1\appsettings.Development.json
+c:\Users\nborges\Desktop\HandsOn\API 2.0\lab3\bin\Debug\netcoreapp3.1\appsettings.json
+c:\Users\nborges\Desktop\HandsOn\API 2.0\lab3\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+c:\Users\nborges\Desktop\HandsOn\API 2.0\lab3\bin\Debug\netcoreapp3.1\lab3.exe
+C:\Users\nborges\Desktop\HandsOn\API 2.0\lab3\bin\Debug\netcoreapp3.1\lab3.deps.json
+C:\Users\nborges\Desktop\HandsOn\API 2.0\lab3\bin\Debug\netcoreapp3.1\lab3.runtimeconfig.json
+C:\Users\nborges\Desktop\HandsOn\API 2.0\lab3\bin\Debug\netcoreapp3.1\lab3.runtimeconfig.dev.json
+c:\Users\nborges\Desktop\HandsOn\API 2.0\lab3\bin\Debug\netcoreapp3.1\lab3.dll
+c:\Users\nborges\Desktop\HandsOn\API 2.0\lab3\bin\Debug\netcoreapp3.1\lab3.pdb
+c:\Users\nborges\Desktop\HandsOn\API 2.0\lab3\obj\Debug\netcoreapp3.1\lab3.csprojAssemblyReference.cache
+c:\Users\nborges\Desktop\HandsOn\API 2.0\lab3\obj\Debug\netcoreapp3.1\lab3.MvcApplicationPartsAssemblyInfo.cache
+c:\Users\nborges\Desktop\HandsOn\API 2.0\lab3\obj\Debug\netcoreapp3.1\lab3.AssemblyInfoInputs.cache
+c:\Users\nborges\Desktop\HandsOn\API 2.0\lab3\obj\Debug\netcoreapp3.1\lab3.AssemblyInfo.cs
+c:\Users\nborges\Desktop\HandsOn\API 2.0\lab3\obj\Debug\netcoreapp3.1\lab3.RazorTargetAssemblyInfo.cache
+c:\Users\nborges\Desktop\HandsOn\API 2.0\lab3\obj\Debug\netcoreapp3.1\staticwebassets\lab3.StaticWebAssets.Manifest.cache
+c:\Users\nborges\Desktop\HandsOn\API 2.0\lab3\obj\Debug\netcoreapp3.1\staticwebassets\lab3.StaticWebAssets.xml
+c:\Users\nborges\Desktop\HandsOn\API 2.0\lab3\obj\Debug\netcoreapp3.1\lab3.dll
+c:\Users\nborges\Desktop\HandsOn\API 2.0\lab3\obj\Debug\netcoreapp3.1\lab3.pdb

@@ -20,13 +20,13 @@ public class TesteController : ControllerBase
     {
         _prodRepositorio.Add(produto);
         _prodRepositorio.SaveChanges();
-        return Ok();
+        return Created("https://localhost:5001/api/produtos",produto);
     }
 
     [HttpGet]
     public ActionResult<IEnumerable<Produto>> GetAll()
     {
         List<Produto> lista = _prodRepositorio.Produtos.ToList();
-        return Ok();
+        return Ok(lista);
     }
 }
